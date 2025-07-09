@@ -1,0 +1,13 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+    "notion-client>=2.4.0",
+    "openai>=1.93.3",
+    "python-telegram-bot==21.0",
+    "telegram>=0.0.1",
+]
