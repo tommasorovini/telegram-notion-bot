@@ -1,4 +1,4 @@
-python-telegram-bot
-openai-whisper
-notion-client
-flask
+python-telegram-bot==21.0        # gestione bot Telegram
+openai==0.28                     # Whisper + ChatCompletion
+notion-client                    # API Notion
+ffmpeg-python==0.2.0             # wrapper Python per ffmpeg
